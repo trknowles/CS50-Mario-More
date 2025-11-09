@@ -9,11 +9,13 @@ It then prints two aligned half-pyramids made of # characters, separated by two 
 
 This is a classic CS50 problem that emphasizes loops, input validation, and formatted output.
 
-✅ Example Output
+## ✅ Example Output
 
-If the user enters a height of 4, the program prints:
+If the user enters a height of **4**, the program prints:
 
+```
    #  #
   ##  ##
  ###  ###
 ####  ####
+```
